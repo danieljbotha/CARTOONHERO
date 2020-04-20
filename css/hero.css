@@ -1,3 +1,12 @@
 body{
-	background-color: red
+	margin: 0;
+}
+header{
+	background-color: #d14635;
+	text-align: center;
+}
+
+
+header h1{
+	color: white;
 }
